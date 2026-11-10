@@ -4,3 +4,4 @@ fourth - my branch
 =======
 second
 >>>>>>> 0868714c7287a45a23b4702fbb2b566a7d1ecc40
+some hot fix

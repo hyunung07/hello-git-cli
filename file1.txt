@@ -4,4 +4,8 @@ fourth - my branch
 =======
 second
 >>>>>>> 0868714c7287a45a23b4702fbb2b566a7d1ecc40
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 47e8e78 (새로운 기능1 추가)
